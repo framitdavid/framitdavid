@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=framitdavid&hide=contribs,prs)
-](https://github-readme-stats.vercel.app/api?username=framitdavid&show=reviews,prs_merged,prs_merged_percentage)
+[[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=framitdavid&hide=contribs,prs)
+](https://github-readme-stats.vercel.app/api?username=framitdavid&show=reviews,prs_merged,prs_merged_percentage)](https://github-readme-stats.vercel.app/api?username=framitdavid&show=reviews,prs_merged,prs_merged_percentage)
 - 👋 Hello, I'm @framitdavid.
 - 👀 I'm passionate about coding that delivers value and emphasizes easily maintainable code with high quality standards.
 - 🌱 Currently, I'm expanding my professional skills by writing a new medium article about Great React Components
