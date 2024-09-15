@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=framitdavid&hide=contribs,prs)
 
 - 👋 Hello, I'm @framitdavid.
 - 👀 I'm passionate about coding that delivers value and emphasizes easily maintainable code with high quality standards.
