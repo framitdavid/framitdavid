@@ -1,4 +1,4 @@
-[![stats](https://github-readme-stats.vercel.app/api?username=framitdavid&show=reviews,prs_merged,prs_merged_percentage)
+![stats](https://github-readme-stats.vercel.app/api?username=framitdavid&show=reviews,prs_merged,prs_merged_percentage)
 
 
 - 👋 Hello, I'm @framitdavid.
